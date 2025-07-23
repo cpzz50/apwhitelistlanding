@@ -16,7 +16,7 @@
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "33322db3129b4196927057b551cde05c,
+            "store_id": "33322db3129b4196927057b551cde05c",
             "binding": "SECRET",
             "secret_name": "waitlist_secret"
         }
